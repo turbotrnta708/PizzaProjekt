@@ -1,4 +1,4 @@
-# PizzaProjekt
+# PizzaKonfigurator
 (ENG)
 This is a small project I created during my HTML classes. It includes both CSS and JavaScript. The main idea is to create a website that serves as an online café/restaurant where users can choose a pizza and customize it however they want. The main purpose of this project is to practice my web development skills.
 
